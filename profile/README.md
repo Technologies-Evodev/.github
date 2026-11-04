@@ -11,7 +11,7 @@ Evodev Technologies designs and builds custom web applications, mobile apps, int
 
 ---
 
-## 🧰 What We Do
+## What We Do
 
 | Service | What it covers |
 | :--- | :--- |
@@ -23,7 +23,7 @@ Evodev Technologies designs and builds custom web applications, mobile apps, int
 
 ---
 
-## 🏗 Evodev Platform
+## Evodev Platform
 
 Our bilingual (EN/FR) operations platform puts projects, clients, sites, teams, and inspections in one app:
 
@@ -33,7 +33,7 @@ Our bilingual (EN/FR) operations platform puts projects, clients, sites, teams, 
 
 ---
 
-## 📂 Selected Work
+## Selected Work
 
 | Project | Client / Industry | Stack |
 | :--- | :--- | :--- |
@@ -52,10 +52,11 @@ See full case studies at [evodev.ca/portfolio](https://evodev.ca/portfolio/).
 ## 🛠 Tech Stack
 
 * **Web:** TypeScript, React, Next.js, Nuxt, Tailwind CSS
-* **Backend:** Python (Pylons, SQLAlchemy), PHP, REST APIs
+* **Backend:** Python (Pylons, SQLAlchemy, Flask), PHP, REST APIs
 * **Mobile:** Flutter, React Native (iOS & Android)
-* **Data:** MySQL, Firebase
-* **Tooling:** Docker, GitHub
+* **Data:** MySQL, Firebase, PSQL
+* **Tooling:** Docker, GitHub,
+* **Cloud:** GCP, AWS
 
 ---
 
